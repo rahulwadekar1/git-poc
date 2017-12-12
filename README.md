@@ -8,3 +8,5 @@ dev commit 2
 
 merge test dev
 merge test dev1
+
+merge commit from dev
